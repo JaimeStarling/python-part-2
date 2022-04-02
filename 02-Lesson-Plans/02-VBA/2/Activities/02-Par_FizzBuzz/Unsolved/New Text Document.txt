@@ -1,0 +1,10 @@
+for each row:
+
+	if number is divisible by 3 (mod 3 == 0):
+		FIZZ
+	else if number is divisible by 5 (mod 3 == 0):
+	then BUZZ
+	else if number is divisible by 3 and 5 (mod 15 == 0):
+	then FIZZBUZZ
+	else
+		BLANK
